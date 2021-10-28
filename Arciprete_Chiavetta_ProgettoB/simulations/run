@@ -1,0 +1,4 @@
+#!/bin/sh
+cd `dirname $0`
+../src/arciprete_chiavetta_progettob -n .:../src $*
+# for shared lib, use: opp_run -l ../src/arciprete_chiavetta_progettob -n .:../src $*
