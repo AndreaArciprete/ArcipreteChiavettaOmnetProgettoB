@@ -1,4 +1,3 @@
-Progetto B: Simulazione di un algoritmo di Flooding su una rete wireless
 I passi da seguire al fine di eseguire la simulazione sono i seguenti:
 1)Scaricare la directory denominata Arciprete_Chiavetta_ProgettoB
 2)Aprire Omnet++
